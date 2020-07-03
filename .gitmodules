@@ -1,0 +1,12 @@
+[submodule "nivel-01/gostack-conceitos-nodejs"]
+	path = nivel-01/gostack-conceitos-nodejs
+	url = git@github.com:leonardodiegues/gostack-conceitos-nodejs.git
+[submodule "nivel-01/gostack-conceitos-reactjs"]
+	path = nivel-01/gostack-conceitos-nodejs
+	url = git@github.com:leonardodiegues/gostack-conceitos-reactjs.git
+[submodule "nivel-01/gostack-conceitos-react-native"]
+	path = nivel-01/gostack-conceitos-react-native
+	url = git@github.com:leonardodiegues/gostack-conceitos-react-native.git
+[submodule "nivel-02/gostack-fundamentos-node"]
+	path = nivel-02/gostack-fundamentos-node
+	url = git@github.com:leonardodiegues/gostack-fundamentos-node.git
