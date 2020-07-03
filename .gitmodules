@@ -2,7 +2,7 @@
 	path = nivel-01/gostack-conceitos-nodejs
 	url = git@github.com:leonardodiegues/gostack-conceitos-nodejs.git
 [submodule "nivel-01/gostack-conceitos-reactjs"]
-	path = nivel-01/gostack-conceitos-nodejs
+	path = nivel-01/gostack-conceitos-reactjs
 	url = git@github.com:leonardodiegues/gostack-conceitos-reactjs.git
 [submodule "nivel-01/gostack-conceitos-react-native"]
 	path = nivel-01/gostack-conceitos-react-native
